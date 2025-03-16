@@ -1,0 +1,150 @@
+/* banner style */
+.banner{
+    display: flex;
+    background-color: #C6E4D6;
+    margin: 160px;
+    border-radius: 10px;
+
+
+
+}
+.text-box{
+    padding: 60px;
+    align-items: center;
+    border: 60px;
+}
+.bangladesh{
+    font-size: 14px;
+}
+.bd-description{
+    font-size: 28px;
+    font-weight: bold;
+
+}
+ 
+
+.image-box{
+    display: flex;
+    width: 374px;
+    height: 250px;
+    padding: 80px 60px;
+}
+.btn-primary{
+    background-color: #006A50;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+
+}
+.title-1{
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: 80px;
+    margin-left: 160px;
+}
+
+
+    
+.skill-container{
+    display: flex;
+    gap: 24px;
+    
+    margin: 160px;
+    width: 1280px 48px;
+    margin-top: 32px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.title-2{
+
+    
+        text-align: left;
+    }
+    
+
+
+
+
+.bg1{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+
+.whole-section{
+    margin-left: 160px;
+    margin-right: 160px;
+    text-align: left;
+
+}
+
+.section-2{
+    display: flex;
+    gap: 24px;
+    
+    text-align: left;
+    padding: 32px;
+    margin-top: 32px;
+    
+}
+.btn-1{
+    background-color: #5490F5;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+}
+.btn-2{
+    background-color: #09A15C;
+    border-radius: 5px;
+    border: 0; 
+    color: white;
+
+
+
+}
+.btn-3{
+    background-color: #FFC239;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+
+
+}
+.bg-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 10px;
+}
+.bg-2{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+}
+.bg-3{
+    background-color: #F7EBCF;
+    border-radius: 10px;
+}
+.recent{
+    text-align: left;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 80px;
+    margin-bottom: 32px;
+
+}
+
+.part-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 160px;
+    margin-right: 160px;
+    padding: 48px;
+    background-color: #C6E4D6;
+    
+
+    
+}
+.img{
+    float: left;
+    width: 20px;
+    height: 20px;
+}
